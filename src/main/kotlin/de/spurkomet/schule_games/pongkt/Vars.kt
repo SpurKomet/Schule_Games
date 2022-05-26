@@ -1,0 +1,1 @@
+data class drawObject(var x: Float, var y: Float, val xSize: Float, val ySize: Float)
