@@ -1,4 +1,4 @@
-package de.spurkomet.schule_games;
+package de.spurkomet.schule_games.pong;
 
 import processing.core.PApplet;
 
